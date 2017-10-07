@@ -1,2 +1,2 @@
-# Homework_2_iOS
-My First iOS app
+# Homework_2_Android
+My First Android app
